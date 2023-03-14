@@ -1,0 +1,15 @@
+{
+    "type": "INTP",
+    "name": "Logik",
+    "functions": ["Ti", "Ne", "Si", "Fe"],
+    "population": [4.8, 1.8, 3.3],
+    "strengths": ["są bardzo otwarci na zdobywanie wiedzy", "mają niesamowite zdolności analityczne", "są ciekawi wszystkiego", "mają zabawną stronę"],
+    "weaknesses": ["\"oderwani\" od rzeczywistości, roztargnieni", "niewrażliwi", "zybko się nudzą", "niezbyt emocjonalni"],
+    "description": "Ludzie z osobowością INTP to chodzące Wikipedie. Uwielbiają zdobywać nową wiedzę, nieważne z jakiej dziedziny. Ciekawi ich jak działają wszelakie rzeczy. Analizują otaczający ich świat i wychwytują połączenia w nim. Na problemy patrzą z wielu punktów widzenia, dlatego są tacy dobrzy w rozwiązywaniu ich. Są odpowiedzialni za wiele odkryć naukowych np. Albert Einstein, Karol Darwin, Maria Skłodowska-Curie. Często wymyślają nowe projekty, ale ich nie kończą, bo łatwo się nudzą. Są wyczuleni na błędy i boją się pomylić, dlatego mówią wolno dokładnie. Są też roztargnieni i trochę oderwani od rzeczywistości więc czasami nie wiedzą ze trzeba się dobrze prezentować. Proste, codzienne czynności mogą być dla nich trudne. Ubierają się wygodnie. Młodzi: memy, gry, reddit, nauka.",
+    "friendships": "Otwierają się tylko przed kilkoma osobami. Nie mówią wiele o sobie. Są trochę niewrażliwi na potrzeby innych. Mają zabawną i kreatywną stronę. Dużo pamiętają, więc nie wolno przy nich kłamać.",
+    "dating": "INTP nie należą do najbardziej romantycznego typu, więc relacje romantyczne mogą być dla nich trudne. W trudnych sytuacjach zaoferują raczej rozwiązanie problemu zamiast pomocy emocjonalnej. Często też prawda jest dla nich ważniejsza niż emocje innych. Nie rozumieją też istotności prezentów niespodzianek czy romantycznych wieczorów randkowych. Za to uwielbiają ",
+    "howToAttract": "",
+    "careers": [],
+    "enneagram": ["5w4","5w6"],
+    "famous": ["Bill Gates","Albert Einstein","Maria Skłodowska-Curie", "Karol Darwin"]
+}

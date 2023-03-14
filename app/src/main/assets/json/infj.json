@@ -1,0 +1,31 @@
+{
+  "type": "INFJ",
+  "name": "Mędrzec",
+  "functions": ["Ni", "Fe", "Ti", "Se"],
+  "population": [1.3, 1.6, 1.5],
+  "strengths": [
+    "zmotywowani",
+    "przekonywujący",
+    "rozumieją ludzi",
+    "kreatywni"
+  ],
+  "weaknesses": [
+    "wrażliwi na krytykę",
+    "skłonni do wypalenia",
+    "niechętnie otwierają się"
+  ],
+  "description": "INFJ to najrzadszy typ ze wszystkich. Gdyby tego było mało to trudno ich otypować, bo są takimi \"kameleonami”. W różnych grupach zachowują się w inny sposób. Są skoncentrowani na przyszłości i doskonale wiedzą czego chcą. Samodzielni i stanowczy ludzie, którzy mogą mieć obsesja nad ciągłym stawaniem się lepszym. Ich altruistyczna strona sprawia, że chcą czynić świat lepszym. Dobrze odczytują emocje i potrafią manipulować innymi. Są uparci i wnikliwi, mogą brać wszystko do siebie. Nie lubią smalltalku.",
+  "friendships": "INFJ wolą mieć kilku dobrych przyjaciół niż duże grono znajomych. Są bardzo prywatni i wolno się otwierają przed innymi. Są lojalni, uczciwi, prawdziwi. Dobrze porozumiewają się z ludźmi, ale nie zawsze im się chce. Lubią pomagać innym. Często absorbują nastroje innych.",
+  "dating": "Jeśli chodzi o związki i randkowanie to INFJ mają wysokie wymagania. Nie zainwestują energii, jeżeli nie potrafią wyobrazić sobie głębokiego związku. Dodatkowo może minąć trochę czasu, zanim zdecydują, czy kogoś lubią czy nie. Z drugiej strony bardzo dobrze potrafią odczytywać emocje innych i są dobrymi słuchaczami. Dostrzegamy najsubtelniejsze sygnały. Chcą pomagać partnerowi się rozwijać. Otwierają się powoli i często zatrzymują swoje uczucia dla siebie. Mogą być zbyt wrażliwi. Potrzebują czas w samotności, bez gadania i pisania.",
+  "howToAttract": "",
+  "careers": [],
+  "enneagram": ["4w5", "4w3", "2w1", "2w3", "1w9", "1w2", "5w4", "5w6"],
+  "famous": [
+    "Benedict Cumberbatch",
+    "Carl Jung",
+    "Nelson Mandela",
+    "J.K. Rowling",
+    "Adolf Hitler",
+    "Lew Trocki"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "type": "ENTJ",
+    "name": "Dowódca",
+    "functions": ["Te", "Ni", "Se", "Fi"],
+    "population": [2.7, 0.9, 1.8],
+    "strengths": [],
+    "weaknesses": [],
+    "description": "",
+    "friendships": "",
+    "dating": "",
+    "howToAttract": "",
+    "careers": [],
+    "enneagram": ["8w7","8w9","3w2","3w4"],
+    "famous": ["Napoleon Bonaparte","Józef Stalin","George Clooney", "Adele"]
+}

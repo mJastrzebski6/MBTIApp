@@ -1,0 +1,15 @@
+{
+    "type": "INTJ",
+    "name": "Architekt",
+    "functions": ["Ni", "Te", "Fi", "Se"],
+    "population": [3.3, 0.8, 2.1],
+    "strengths": ["żądni wiedzy", "niezależni", "bardzo zmotywowani", "samodzielni", "inteligentni", "dobrze analizujący"],
+    "weaknesses": ["aroganccy","mało uczuciowi","krytyczni wobec innych"],
+    "description": "Osoby z tym typem osobowości często uważane są za zimne i nieczułe. Dzięki swoim umiejętnościom analitycznym i byciu maksymalnie efektywnym określani są nawet mianem robotów. Mają problemy z okazywaniem i odczytywaniem emocji. Czasami są zirytowani zachowaniem innych osób, dlatego po całym dniu wśród ludzi muszą odpocząć w samotności. Często są samotnymi wilkami, nie lubią rozmawiać o sobie. Podobno jest to najbardziej introwertyczny typ. INTJ to ludzie, którzy doskonale wiedzą czego chcą i będą do tego dążyć za każdą cenę. Kochają planować przyszłość. Podczas podejmowania decyzji kierują się logiką. Wypalają fałsz nie patrząc na emocje innych. Najważniejsze dla nich jest dotarcie do prawdy. Nie rozumieją konwenansów społecznych.",
+    "friendships":"INTJ zazwyczaj mają małą grupę znajomych. Często szukają znajomych „równych im”, z którymi mogliby godzinami rozmawiać na wymagające tematy. Nie lubią small talk’u. Lubią osoby samodzielne i inteligentne, doceniają w innych bycie sobą. Nie lubią nieszczerości, ignorancji i nieefektywności. Nie chcą czuć się zobowiązani dla nikogo. Będą tygodnie, że będą spędzać z wami każdą wolną chwile, a nagle nadejdzie czas, że nie dadzą znaku życia. Trudno jest trafić do ich grupy „najlepszych przyjaciół”. Jeżeli INTJ spędza z tobą czas to znaczy, że im zależy i trzeba to docenić. INTJ są świadomi, że czas to jedyny surowiec, którego nie można kupić więc nie chcą go tracić na osoby, na których im nie zależy i które nic nie wniosą do ich życia.",
+    "dating": "Error 404: not found",
+    "howToAttract": "",
+    "careers": [],
+    "enneagram": ["5w4", "5w6","1w9", "1w2"],
+    "famous": ["Isaac Newton", "Michelle Obama", "Mark Zuckerberg", "Elon Musk", "Stephen Hawking", "Julia Stiles"]
+}

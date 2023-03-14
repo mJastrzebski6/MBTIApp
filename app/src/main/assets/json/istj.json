@@ -1,0 +1,15 @@
+{
+    "type": "ISTJ",
+    "name": "Inspektor",
+    "functions": ["Si", "Te", "Fi", "Ne"],
+    "population": [16.4, 6.9, 11.6],
+    "strengths": ["mają silną wole", "spokojni i praktyczni", "tworzą i egzekwują porządek", "wszechstronni", "odpowiedzialni", "sumienni"],
+    "weaknesses": ["uparci", "mało uczuciowi", "obwiniają się", "działają z jasno określonymi zasadami", "niechęć do zmian", "brak zrozumienia dla potrzeb innych ludzi"],
+    "description": "ISTJ są bardzo zmotywowani i wytrwali w tym co robią. Potrafią przyjąć i wykorzystać konstruktywną krytykę, bo nigdy nie przegapiliby okazji do samodoskonalenia. Potrafią zachować spokój w sytuacjach konfliktowych i spróbują dojść do porozumienia. Czerpią przyjemność z porządkowania i organizowania swojej pracy. Są bardzo bezpośredni w komunikacji i dodatkowo nie są najlepsi w odczytywaniu emocji innych. Często nie są świadomi jak ważna jest komunikacja niewerbalna. Ich zamiłowanie do zasad może wydać się sztywne dla innych. Gdy komuś coś obiecają to zawsze dotrzymują słowa.",
+    "friendships": "Chcą przebywać wśród ludzi, którzy mają podobne zainteresowania i perspektywy. Mimo poważnego wyglądu i zachowania ISTJ lubią wyluzować się w swojej małej grupce bliskich znajomymi. Lubią z nimi rozmawiać na niebanalne tematy. Gdy przyjaciel poprosi ich o pomoc to ISTJ na pewno znajdą rozwiązanie problemu. Muszą sobie uświadomić, że wsparcie emocjonalne jest równie ważne.",
+    "dating": "ISTJ są zaangażowanymi i lojalnymi partnerami. Prawdopodobnie będą mieli dobre relacje z drugą osobą. Niestety podczas kłótni mogą zawsze uważać, że mają rację. Gdy w związku pojawi się problem, będą chcieli go rozwiązać. Do intymności podchodzą z fizycznej perspektywy. Mają problem z wyrażaniem najgłębszych uczuć. ISTJ muszą pamiętać, że inni mogą potrzebować usłyszeć, że są kochani i cenieni.",
+    "howToAttract": "",
+    "careers": [],
+    "enneagram": ["1w9", "1w2", "6w5", "5w4", "5w6"],
+    "famous": ["Jeff Bezos", "Sigmund Freud", "Natalie Portman", "Geralt z Rivii", "Angela Merkel"]
+}

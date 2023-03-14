@@ -1,0 +1,15 @@
+{
+    "type": "ISFP",
+    "name": "Artysta",
+    "functions": ["Fi", "Se", "Ni", "Te"],
+    "population": [6.7, 9.9, 8.8],
+    "strengths": ["mają zdolności manulane", "łatwo dopasowują się do zmian", "wrażliwi na innych", "pomysłowi", "wyluzowani"],
+    "weaknesses": ["łatwo się stresują", "nadmiernie rywalizują", "zmienia im się samoocena"],
+    "description": "ISFP to osoby, które posiadają wysokie zdolności manualne. Często są uzdolnieni artystycznie, mają zmysł estetyczny i projektowy. Chcą tworzyć i wyrażać w ten sposób siebie. Są skupieni na teraźniejszości. Świat 5 zmysłów. Mają skłonność o podejmowania ryzyka, lubią hazard, sporty ekstremalne. Wierni i lojalni wobec ludzi i idei, które są dla nich ważne. Nie chcą podążać za innymi. Wolą słuchać niż mówić. Preferują spędzać czas w małej grupie bliskich znajomych. Cechuje ich wysoki poziom empatii i tolerancji.",
+    "friendships": "Zaakceptują cię takim jakim jesteś. ",
+    "dating": "Opiekują się partnerami. Są wyluzowani i spontaniczni. Zrelaksowani rodzice. Uważają, że trzeba odkrywać i popełniać błędy.",
+    "howToAttract": "",
+    "careers": [],
+    "enneagram": ["9w8", "9w1","4w3","4w5", "6w5","6w7"],
+    "famous": ["Britney Spears", "Michael Jackson","Marilyn Monroe","Paul McCartney"]
+}

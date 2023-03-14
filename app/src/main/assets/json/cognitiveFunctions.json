@@ -1,0 +1,66 @@
+{
+    "Fe": {
+        "dominant": ["ESFJ","ENFJ"],
+        "auxiliary": ["ISFJ","INFJ"],
+        "tertiary": ["ESTP","ENTP"],
+        "inferior": ["ISTP","INTP"]
+    },
+    "Fi": {
+        "dominant": ["INFP","ISFP"],
+        "auxiliary": ["ESFP","ENFP"],
+        "tertiary": ["ISTJ","INTJ"],
+        "inferior": ["ESTJ","ENTJ"]
+    },
+    "Te": {
+        "dominant": ["ENTJ","ESTJ"],
+        "auxiliary": ["ISTJ","INTJ"],
+        "tertiary": ["ESFP","ENFP"],
+        "inferior": ["ISFP","INFP"]
+    },
+    "Ti": {
+        "dominant": ["INTP","ISTP"],
+        "auxiliary": ["ESTP","ENTP"],
+        "tertiary": ["ISFJ","INFJ"],
+        "inferior": ["ESFJ","ENFJ"]
+    },
+    "Ne": {
+        "dominant": ["ENTP","ENFP"],
+        "auxiliary": ["INFP","INTP"],
+        "tertiary": ["ESFJ","ESTJ"],
+        "inferior": ["ISFJ","ISTJ"]
+    },
+    "Ni": {
+        "dominant": ["INTJ","INFJ"],
+        "auxiliary": ["ENFJ","ENTJ"],
+        "tertiary": ["ISFP","ISTP"],
+        "inferior": ["ESFP","ESTP"]
+    },
+    "Se": {
+        "dominant": ["ESTP","ESFP"],
+        "auxiliary": ["ISFP","ISTP"],
+        "tertiary": ["ENFJ","ENTJ"],
+        "inferior": ["INFJ","INTJ"]
+    },
+    "Si": {
+        "dominant": ["ISTJ","ISFJ"],
+        "auxiliary": ["ESFJ","ESTJ"],
+        "tertiary": ["INFP","INTP"],
+        "inferior": ["ENFP","ENTP"]
+    },
+    "FeDescription":"Osobom z dominującą funkcją Fe zależy na tworzeniu więzi z ludźmi. Są to ludzie charyzmatyczni, którzy potrafią wyczuwać emocje innych. Chcą pomagać innym ludziom. <ul><li>ESFJ - dbają o fizyczne potrzeby innych: wolontariusze, doktorzy </li><li>ENFJ - tworzą plany, chcą zmienić społeczeństwo na lepsze: mówcy, pisarze</li></ul>",
+    "FiDescription":"Osoby z dominującą funkcją Fi tworzą głębokie relacje. Cenią indywidualizm i żyją według swojej hierarchii wartości. Często poszukują głębszego znaczenia we wszystkim. Są świadomi swoich emocji i potrafią odczuwać czyjeś emocje. Są to osoby kreatywne i uzdolnione artystycznie. <ul><li>INFP - rozumieją ludzi, ich problemy i ich zamiary</li><li>ISFP - mają artystyczną duszę i zmysł estetyczny</li></ul>",
+    "TeDescription":"Osoby z dominującą funkcją Te są stanowcze i produktywne. Mają naturalne zdolności do dowodzenia grupą. Często obejmują stanowiska dyrektorów i kierowników, bo dobrze delegują zadania podwładnym. Mają wysokie standardy i doceniają ciężką pracę. Stawiają na efektywność. Podczas podejmowania decyzji odcinają się od emocji. W komunikacji są bezpośredni, bo przekaz ma być jasny i szybki.",
+    "TiDescription":"Funkcja Ti odpowiedzialna jest za gromadzenie informacji, analizowanie i szukanie schematów. Ludzie z tą osobowością lubią dociekać, jak działa jakaś rzecz czy system. Mówią wolno i precyzyjnie. Doceniają inteligencję, wiedzę i doświadczenie. Bardzo lubią się uczyć.<ul><li>INTP wyłapują schematy abstrakcyjne</li><li>ISTP wyłapują schematy natury fizycznej</li></ul>",
+    "NeDescription":"Ludzie z dominującą funkcją Ne często myślą poza schematem. Widzą potencjalne możliwości i szybko łączą fakty w całość. Są bardzo otwarci na nowe doświadczenia, lubią próbować nowych rzeczy. Mają wiele pomysłów, są kreatywni i często się ekscytują. Nie lubią rutyny.",
+    "NiDescription":"Ludzie z dominującą funkcją Ni bardzo dobrze przewidują przyszłość. Analizują przeszłe i teraźniejsze wydarzenia. Rozpatrują problemy z wielu punktów widzenia. Są chętni na nowe informacje, lubią wyzwania umysłowe, mają umiejętność wyszukiwania wzorów i schematów we wszystkim. Są bardzo zmotywowani i gdy wyznaczą sobie jakiś cel to będą do niego dążyć za wszelką cenę. Ich planem jest wygrać grę zwaną życiem. Boją się nieznanego.",
+    "SeDescription":"Ludzie z dominującą funkcją Se są bardzo przyziemni. Najważniejsze dla nich jest tu i teraz. Uwielbiają doświadczać nowych rzeczy - świat 5 zmysłów. Są wyluzowani, spontaniczni, porywczy i energiczni. Skupiają się na estetyce i wyglądzie. Mają charyzmę i są duszami towarzystwa. Ludzie stale uśmiechnięci, optymistyczni i potrafiący rozśmieszyć innych. Często są sportowcami, muzykami, malarzami i gwiazdami showbiznesu.",
+    "SiDescription":"Ludzie z dominującą funkcją Se są bardzo przyziemni i praktyczni. To jedni z najbardziej odpowiedzialnych ludzi w społeczeństwie na których zawsze można polegać. Ich supermocą jest dostrzeganie rzeczy, które są do zrobienia. Chętnie zdobywają wiedzę. Bardzo lubią stabilizację, rutynę i powtarzalność. Z tego powodu nie lubią zbytnio zmian. Są też strachliwi i pesymistycznie nastawieni w stosunku do nowych rzeczy czy doświadczeń.  Są za to uporządkowani, regularni, solidni i odpowiedzialni. ISTJ i ISFJ to takie stereotypy dobrych rodziców. Dodatkowo kojarzą się z popularnymi w memach konserwatywkami.",
+    "FeTitle": "Tworzący więzi",
+    "FiTitle": "Ceniący",
+    "TeTitle": "Strukturyzujący",
+    "TiTitle": "Rozumiejący przyczyny",
+    "NeTitle": "Tworzący idee",
+    "NiTitle": "Wiedzący",
+    "SeTitle": "Doświadczający",
+    "SiTitle": "Stabilizujący"
+}

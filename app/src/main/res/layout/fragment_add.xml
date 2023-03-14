@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.add.AddFragment"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:text="Dodaj osobę"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textColor="@color/purple_500"
+        />
+
+    <TextView
+        android:layout_marginStart="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Imię:"/>
+
+    <EditText
+        android:inputType="textCapSentences"
+        android:layout_marginStart="6dp"
+        android:id="@+id/firstname_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_marginStart="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nazwisko:"/>
+
+    <EditText
+        android:inputType="textCapSentences"
+        android:layout_marginStart="6dp"
+        android:id="@+id/surname_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:layout_marginStart="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Płeć:"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        >
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Mężczyzna"/>
+        <Switch
+            android:id="@+id/gender_input"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Kobieta"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginStart="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginVertical="40dp">
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Typ:"/>
+    <Spinner
+        android:id="@+id/type_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/add_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dodaj"/>
+</LinearLayout>

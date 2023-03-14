@@ -1,0 +1,15 @@
+{
+    "type": "ISFJ",
+    "name": "Opiekun",
+    "functions": ["Si", "Fe", "Ti", "Ne"],
+    "population": [8.1, 16.4, 13.8],
+    "strengths": ["lubią pomagać innym", "niezawodni, punktualni, cierpliwi", "entuzjastyczni", "dobrze odczytują emocje innych", "lojalni i pracowici"],
+    "weaknesses": ["niechętni do zmian", "przeciążają się pracą","zbyt altruistyczni","nieśmiali"],
+    "description": "ISFJ to osoby odpowiedzialne, rozsądne i zorganizowane. Lubią rutynę i tak jak <a href=\"/typy/istj\">ISTJ</a> są niechętni zmian. Przez to są niezbyt elastyczni w myśleniu i w działaniu. Mają ogromny szacunek do tradycji. Są asertywni i mają swój system wartości, którego się trzymają. Lubią pomagać innym ludziom, są pragmatyczni i są świadomi uczuć innych ludzi. Poważni, pokorni i nieśmiali, mogą mieć problemy z samooceną i wiarą w siebie. Biorą rzeczy zbyt do siebie. Są zbyt altruistyczni. To stereotyp dobrej i kochającej matki.",
+    "friendships": "Preferują spędzać czas samemu lub z najbliższymi. Są przyjacielscy, mili i lojalni. To introwertycy, ale nie przeszkadza im towarzystwo ludzi. Są dobrymi słuchaczami, zapamiętują ludzi i szczegóły z ich życia.",
+    "dating": "Tworzą związki na całe życie i są wierni. Dbają o ukochanych. Czasami tłumią swoje uczucia. Gdy pojawi się problem mogą nie dostrzegać swojej winy. ",
+    "howToAttract": "",
+    "careers": [],
+    "enneagram": ["6w5","6w7","2w3","2w1", "9w1", "9w8"],
+    "famous": ["Ed Sheeran","Henry Cavill","Bruce Willis", "Kirsten Dunst"]
+}

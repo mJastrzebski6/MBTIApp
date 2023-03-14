@@ -1,0 +1,15 @@
+{
+    "type": "ISTP",
+    "name": "Mechanik",
+    "functions": ["Ti", "Se", "Ni", "Fe"],
+    "population": [8.5, 2.4, 5.4],
+    "strengths": ["kreatywni i praktyczni", "spontaniczni", "zrelaksowani", "energiczni", "zmotywowani", "optymistyczni"],
+    "weaknesses": ["uparci", "nieczuli", "szybko się nudzą", "lubią ryzyko"],
+    "description": "ISTP to ludzie, którzy kochają poznawać świat. Są kreatywni, praktyczni i mają techniczne umysły. Dodatkowo uwielbiają tworzyć, projektować i planować, dlatego często pracują w zawodach tj. budowniczy, inżynier, programista, stolarz. Nie lubią rutyny, szybko się nudzą, gdy się nie rozwijają. Nie pociągają ich zbytnio abstrakcyjne teorie. Wyznaczają sobie cele i do nich dążą. Są inteligentni, optymistyczni, energiczni, spontaniczni, zrelaksowani, logiczni i niesentymentalni. Wyznają zasadę „Czyń innym tak, jakbyś chciał by tobie czyniono”. Lubią podejmować ryzyko chociażby dla rozrywki. Są często myleni z <a href=\"/typy/istj\">ISTJ</a>.",
+    "friendships": "ISTP są lojalni i wierni wobec przyjaciół. Często mają wspólne zainteresowania z przyjaciółmi. Mogą się czuć niezręcznie w sytuacjach towarzyskich. ",
+    "dating": "ISTP mają małe trudności w relacjach romantycznych. Czasami są nieczuli i wykazują brak empatii. Mają tendencję do kumulowania swoich emocji. Ogólnie mają niski poziom inteligencji emocjonalnej. Nie rozumieją istotności komunikacji niewerbalnej, nie jest ona dla nich naturalna.",
+    "howToAttract": "",
+    "careers": [],
+    "enneagram": ["5w6","5w4","9w8","9w1"],
+    "famous": ["Scarlett Johansson","Kobe Bryant","Eminem","Harrison Ford"]
+}

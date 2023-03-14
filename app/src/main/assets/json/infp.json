@@ -1,0 +1,15 @@
+{
+    "type": "INFP",
+    "name": "Idealista",
+    "functions": ["Fi", "Ne", "Si", "Te"],
+    "population": [4.1, 4.6, 4.4],
+    "strengths": ["empatyczni, wrażliwi","chcą zrozumieć ludzi", "idealistyczni", "pasjonaci", "kreatywni i obdarzeni wyobraźnią", "otwarci, tolerancyjni i akceptujący", "chcą pomagać innym"],
+    "weaknesses": ["mogą czuć się odizolowani", "nieskoncentrowani", "mogą wchłaniać negatywne nastroje innych", "zdesperowani, by zadowolić", "zbyt krytyczni wobec siebie", "mają nierealistyczne oczekiwania"],
+    "description": "W życiu ludzi z osobowością INFP dominują uczucia. Dobrze odczytują emocje innych, lecz mogą mieć problem z wyrażaniem własnych uczuć. Energię czerpią ze spędzania czasu w samotności. Bardzo chcą uczynić świat lepszym. Chcą pomagać innym i sprawiać by byli szczęśliwi. Często posiadają umiejętności artystyczne. Są małomówni i mają mało potrzeb. 3 słowa idealnie opisujące ten typ: „ale fajny piesek”.",
+    "friendships":"INFP zazwyczaj mają tylko kilku bliskich znajomych, ale za to te relacje są długotrwałe. Kontakt społeczny może być trudny, chociaż INFP pragną intymności emocjonalnej i głębokich relacji. Poznanie INFP może zająć trochę czasu i pracy, ale nagrody mogą być wspaniałe dla tych, którzy mają cierpliwość i zrozumienie. Cenią autentyczność w innych.",
+    "dating": "Wspierają partnerów i chcą zaspokajać ich potrzeby. Są dobrymi słuchaczami. Nie lubią jednak konfliktów, nie chcą rozpoczynać kłótni i nie lubią krytyki. Bardzo emocjonalnie reagują na stresujące sytuacje. Mogą mieć trudności z opuszczeniem złego związku i mogą obwiniać się w nim za wszystkie problemy. <br/>Czują potrzebę bycia w zaangażowanym, pełnym miłości związku. Jeśli nie są zaangażowani w taką relację, INFP będzie albo aktywnie poszukiwać takiej relacji, albo tworzyć ją we własnych umysłach. Skłonność INFP do idealizmu i romantycznego nastawienia może powodować, że często fantazjują o „doskonałym” związku. Większość INFP ma problem z pogodzeniem swoich wysoce idealistycznych i romantycznych poglądów z prawdziwym życiem. Pod względem seksualnym otwierają się powoli. Po zdobyciu naszego zaufania INFP będą postrzegać intymność seksualną jako okazję do wyrażania swojej miłości i uczucia. Bardziej niż sam akt lubią afirmację słowne i otrzymywanie pochwał.",
+    "howToAttract": "",
+    "careers": [],
+    "enneagram": ["4w3", "4w5", "9w1", "9w8", "6w5", "6w7"],
+    "famous": ["Szekspir","Frodo Baggins", "Julia Roberts", "Heath Ledger", "Keanu Reeves", "Winona Ryder", "Timothée Chalamet"]
+}
